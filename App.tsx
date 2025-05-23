@@ -1,6 +1,5 @@
 /**
  * Enhanced React Native App with Beautiful UI
- * (Without LinearGradient dependency)
  */
 import React from 'react';
 import type {PropsWithChildren} from 'react';
